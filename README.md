@@ -1,9 +1,9 @@
 # Yet Another Radio
-> Heavaly inspired by [Advanced Radio Player Applet](https://store.kde.org/p/2136933/)
+> Heavily inspired by [Advanced Radio Player Applet](https://store.kde.org/p/2136933/)
 
 A GNOME Shell extension for listening to internet radio stations directly from your panel.
 
-This extention uses [Radio Browser](https://www.radio-browser.info/)'s API to fetch radio urls and play them using gstreamer (Usually being installed with GNOME).
+This extension uses [Radio Browser](https://www.radio-browser.info/)'s API to fetch radio urls and play them using gstreamer (Usually being installed with GNOME).
 
 ## Screenshots
 
